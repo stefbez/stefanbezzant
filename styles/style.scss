@@ -1,0 +1,42 @@
+@import 'partials/variables',
+        'partials/fonts';
+
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+.home-container {
+    height: 100vh;
+    min-height: 500px;
+    .white,
+    .black {
+        height: 50vh;
+        min-height: 250px;
+        h1 {
+            margin: 0 auto;
+            width: fit-content;
+            font-size: 22vmin;
+            font-family: $header-font;
+        }
+    }
+    .white {
+        position: relative;
+        
+        background-color: white;
+        color: black;
+        h1 {
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
+        }
+    }
+    .black {
+        background-color: black;
+        color: white;
+        h1 {
+            font-family: $header-font-italic;
+        }
+    }
+}

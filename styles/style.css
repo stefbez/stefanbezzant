@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "Urbanist";
+  src: url(../assets/fonts/Urbanist-VariableFont_wght.ttf) format("truetype");
+  font-weight: 100 1000;
+}
+@font-face {
+  font-family: "Urbanist Italic";
+  src: url(../assets/fonts/Urbanist-Italic-VariableFont_wght.ttf) format("truetype");
+  font-weight: 100 1000;
+}
+@font-face {
+  font-family: "Recursive";
+  src: url(../assets/fonts/Recursive-VariableFont_CASL,CRSV,MONO,slnt,wght.ttf) format("truetype");
+  font-weight: 100 1000;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.home-container {
+  height: 100vh;
+  min-height: 500px;
+}
+.home-container .white,
+.home-container .black {
+  height: 50vh;
+  min-height: 250px;
+}
+.home-container .white h1,
+.home-container .black h1 {
+  margin: 0 auto;
+  width: fit-content;
+  font-size: 22vmin;
+  font-family: "Urbanist", sans-serif;
+}
+.home-container .white {
+  position: relative;
+  background-color: white;
+  color: black;
+}
+.home-container .white h1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.home-container .black {
+  background-color: black;
+  color: white;
+}
+.home-container .black h1 {
+  font-family: "Urbanist Italic", sans-serif;
+}

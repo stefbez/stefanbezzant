@@ -9,6 +9,30 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/assets\/fonts\/Recursive-VariableFont_CASL,CRSV,MONO,slnt,wght.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Recursive-VariableFont_CASL,CRSV,MONO,slnt,wght.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Urbanist-Italic-VariableFont_wght.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Urbanist-Italic-VariableFont_wght.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Urbanist-VariableFont_wght.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Urbanist-VariableFont_wght.ttf",
+      "oF" : 0
+    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -46,6 +70,70 @@
       "pME" : 1,
       "rFN" : 0,
       "uCM" : 0
+    },
+    "\/styles\/partials\/fonts.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/styles\/partials\/fonts-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/styles\/partials\/fonts.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/styles\/partials\/fonts.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/styles\/partials\/variables.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/styles\/partials\/variables-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/styles\/partials\/variables.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/styles\/partials\/variables.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/styles\/style.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/styles\/style-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/styles\/style.scss" : {
       "aP" : 0,
